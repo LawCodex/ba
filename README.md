@@ -51,8 +51,8 @@ consolidated texts (bold/italic/underline marking each amendment) are lost in pl
 
 ## Licence
 
-Legislative texts and official acts are not protected by copyright in BiH (Zakon o autorskom
-i srodnim pravima BiH, čl. 8). Texts reproduced as published by the institutions named above.
+Legislative texts and official acts are excluded from copyright protection under the BiH
+Law on Copyright and Related Rights. Texts reproduced as published by the institutions named above.
 
 ## Regenerating
 
